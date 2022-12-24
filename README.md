@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logan-exe&show_icons=true&locale=en" alt="logan-exe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logan-exe&" alt="logan-exe" /></p>
-![snake gif](https://github.com/logan-exe/logan-exe/blob/output/github-contribution-grid-snake.gif)
+<p><img align="center" src="ttps://github.com/logan-exe/logan-exe/blob/output/github-contribution-grid-snake.gif" alt="logan-exe" /></p>
