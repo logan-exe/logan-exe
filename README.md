@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif)](https://github.com/logan-exe)
-<h1 align="center">Hi 👋, I'm Arun Loganathan</h1>
+<h1 align="left">Hi 👋, I'm Arun Loganathan</h1>
 <h3 align="center">Full Stack Developer | MERN | WEB3 | DAPPS | AWS</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=logan-exe&label=Profile%20views&color=0e75b6&style=flat" alt="logan-exe" /> </p>
