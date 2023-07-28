@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg)](https://github.com/logan-exe)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif)](https://github.com/logan-exe)
 <h1 align="center">Hi 👋, I'm Arun Loganathan</h1>
 <h3 align="center">Full Stack Developer | MERN | WEB3 | DAPPS | AWS</h3>
 
