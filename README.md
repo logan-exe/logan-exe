@@ -1,12 +1,12 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif)](https://github.com/logan-exe)
 <h1 align="left">Hi 👋, I'm Arun Loganathan</h1>
-<h3 align="center">Full Stack Developer | MERN | WEB3 | DAPPS | AWS</h3>
+<h3 align="left">Full Stack Developer | MERN | WEB3 | DAPPS | AWS</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=logan-exe&label=Profile%20views&color=0e75b6&style=flat" alt="logan-exe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=logan-exe&label=Profile%20views&color=0e75b6&style=flat" alt="logan-exe" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logan-exe" alt="logan-exe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logan-exe" alt="logan-exe" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/arun_logan_" target="blank"><img src="https://img.shields.io/twitter/follow/arun_logan_?logo=twitter&style=for-the-badge" alt="arun_logan_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arun_logan_" target="blank"><img src="https://img.shields.io/twitter/follow/arun_logan_?logo=twitter&style=for-the-badge" alt="arun_logan_" /></a> </p>
 
 - 🔭 I’m currently working on [METAFELO](https://metafelo.com)
 
